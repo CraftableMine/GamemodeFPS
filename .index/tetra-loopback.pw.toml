@@ -1,0 +1,16 @@
+filename = 'tetra_loopback-0.1.2.fix1.jar'
+name = 'Tetra Loopback'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '48b4a3129b904de3b2f637ca969136563d8437cbae5f6b300228cabe7c9cc960431daeab619a265ec8105c2dcc5cbdcb65e2466c065ccb4e5b0464567c943244'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c4EkDJ39/versions/2UC3c0bL/tetra_loopback-0.1.2.fix1.jar'
+
+[update.modrinth]
+mod-id = 'c4EkDJ39'
+version = '2UC3c0bL'

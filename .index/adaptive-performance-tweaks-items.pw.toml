@@ -1,0 +1,16 @@
+filename = 'adaptive_performance_tweaks_items_1.20.1-11.3.0.jar'
+name = 'Adaptive Performance Tweaks: Items'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e989fa7de9e1647d3f9ca2ff02ea3ca0e222a75940d1559ccd699af39df9b57f8d5903f54304492ba93549f1aed1efd6e44bfd0226bcd9aa7655c23d2ec14a46'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z3TjJLQ0/versions/Owg1cVwE/adaptive_performance_tweaks_items_1.20.1-11.3.0.jar'
+
+[update.modrinth]
+mod-id = 'z3TjJLQ0'
+version = 'Owg1cVwE'

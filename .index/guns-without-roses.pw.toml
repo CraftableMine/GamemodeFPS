@@ -1,0 +1,16 @@
+filename = 'gunswithoutroses-1.20.1-2.3.0.jar'
+name = 'Guns Without Roses'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a2556987196f72fc7343922053fc4fc7f7c683fdf2572f4eb3207cf2fa4f57b9f5e92c1a8792367975d0c4b3febf2142b94ce2f805af2d0c03b2ed4dfbac18eb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jrSCjxKy/versions/MhznQ2eR/gunswithoutroses-1.20.1-2.3.0.jar'
+
+[update.modrinth]
+mod-id = 'jrSCjxKy'
+version = 'MhznQ2eR'

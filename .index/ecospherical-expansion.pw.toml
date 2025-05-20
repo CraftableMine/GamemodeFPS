@@ -1,0 +1,16 @@
+filename = 'ecosphericalexpansion-1.20.x-2.4.6.jar'
+name = 'Ecospherical Expansion'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '133cec2f0cad1c602ac93dc36d720d55e445c50fc0b11ac75717989f71dc8c62df739b25ecfe53cd46d5cc58fd6e590dfe30c0208a3675d775e8458115d4e9be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WtcuxDNN/versions/5lXIJiba/ecosphericalexpansion-1.20.x-2.4.6.jar'
+
+[update.modrinth]
+mod-id = 'WtcuxDNN'
+version = '5lXIJiba'

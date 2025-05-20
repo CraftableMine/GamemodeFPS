@@ -1,0 +1,16 @@
+filename = 'Loot Plus V1.1.3-forge-1.20.1 (FIXED).jar'
+name = 'Loot+'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c24d991a20dc3611addc47c545513f0889410a23c1fbb460b7b161fd3397a3598174c6a3d634539e5fd4e2b902e8b87f97ad2156908c8d814eebc07411bf2d5d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HXHLSNPN/versions/TvcmwCfR/Loot Plus V1.1.3-forge-1.20.1 %28FIXED%29.jar'
+
+[update.modrinth]
+mod-id = 'HXHLSNPN'
+version = 'TvcmwCfR'

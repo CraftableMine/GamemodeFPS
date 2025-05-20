@@ -1,0 +1,16 @@
+filename = 'dont_touch_our_structures-1.20.1-Forge-1.1.0.jar'
+name = "Don't Claim our Structures ! (FTB Chunks/OPaC)"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a85073ffec258946f9ac957a04660524d9e13c11'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6494923
+project-id = 1199930

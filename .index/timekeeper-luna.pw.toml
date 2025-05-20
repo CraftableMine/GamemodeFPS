@@ -1,0 +1,16 @@
+filename = 'timekeeper_luna-1.2-forge-1.20.1.jar'
+name = 'Timekeeper (Calendar)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9ac5799207140477f0c337f12c78723f7c832185b66826dc8113738289fc53dd05add0117515f69a93d0c09abb1c4dc6b20741c5f933db1b3b79e801ce793483'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kODsb7Op/versions/b5orerus/timekeeper_luna-1.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'kODsb7Op'
+version = 'b5orerus'

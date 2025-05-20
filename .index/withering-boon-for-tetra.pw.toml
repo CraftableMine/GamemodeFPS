@@ -1,0 +1,16 @@
+filename = 'witheringboon-1.8.3.jar'
+name = 'Withering Boon for Tetra'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '56f9c19ef40d1cb59b821db3127a4578d19beb9542f60522d732abb969002d69ecd636aed8dfae822740f98e9087fefdb7b8f61c7769ea2bb05f1eeda183039b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ALDMlJiu/versions/pLiwHDQp/witheringboon-1.8.3.jar'
+
+[update.modrinth]
+mod-id = 'ALDMlJiu'
+version = 'pLiwHDQp'

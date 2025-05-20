@@ -1,0 +1,16 @@
+filename = 'randomloot-0.0.0.jar'
+name = 'Random Loot Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '15bd670732569e54dbd4f0db8a84da4287883b89'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4745913
+project-id = 301631

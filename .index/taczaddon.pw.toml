@@ -1,0 +1,16 @@
+filename = 'taczaddon-1.20.1-1.1.5-for1.1.5.jar'
+name = 'TaCZ addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ccdb8398acfde1be20e80df4d6458734f2252785d5f2c66ffcff358a2f991bec7eda1cb01bbc391576f69d1aebf6deb570a35fe7905886fd7dcc202bb3666e82'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3Ihyt5WL/versions/lH1TnoiB/taczaddon-1.20.1-1.1.5-for1.1.5.jar'
+
+[update.modrinth]
+mod-id = '3Ihyt5WL'
+version = 'lH1TnoiB'

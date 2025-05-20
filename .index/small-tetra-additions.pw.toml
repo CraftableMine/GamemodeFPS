@@ -1,0 +1,16 @@
+filename = 'smalltetraadditions-1.20-8.0.jar'
+name = 'Small Tetra Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e34e2418a693e2bcab1941eb92cafb909e05a4c3efa109d3f04bef0ed3b2f2cc751efcf08498ac314e6edd3ad26edd47a8494b5d904421d2f2bdca02620967c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7wGwPZ3T/versions/aVYs75DA/smalltetraadditions-1.20-8.0.jar'
+
+[update.modrinth]
+mod-id = '7wGwPZ3T'
+version = 'aVYs75DA'

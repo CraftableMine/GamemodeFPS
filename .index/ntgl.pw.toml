@@ -1,0 +1,16 @@
+filename = 'ntgl-1.20.1-1.9.3.jar'
+name = "NukaTeam's Gun Lib"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '99a9de7db90ee01b37fe9b501e301c86839a28c42dc71def9f099d54a9d5d596e389ecbfc3334f1b587560576e598c9044ae07700d5cb6f7a6af83052fec5969'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5m2kV8xK/versions/JXwdU3of/ntgl-1.20.1-1.9.3.jar'
+
+[update.modrinth]
+mod-id = '5m2kV8xK'
+version = 'JXwdU3of'

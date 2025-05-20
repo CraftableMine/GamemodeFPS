@@ -1,0 +1,16 @@
+filename = 'TetraNova_MythicMobs-1.20.1-1.0.3.jar'
+name = 'Tetra Nova: Mythic Mobs'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '930106911aa48fb8570ac1c07f77c226b0a9fd8a1cdd1cb65acbb7d9895c5315cde92ac9e568cc9d38ed07cfca72bf4e079d9445876be79842e4848447c8962e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fvVOd55U/versions/TfBbGNkf/TetraNova_MythicMobs-1.20.1-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'fvVOd55U'
+version = 'TfBbGNkf'

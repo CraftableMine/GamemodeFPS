@@ -1,0 +1,16 @@
+filename = 'tetras_weapons-1.0.0.jar'
+name = "Tetra's Weapons"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aeced04e2c280ccf4b4d33d4ddd05391c4cc514754658f9585ae9db83812c0f0df1f85ae9d383353a92219daa0fcef979fbaa54007dbe0b231245f7061f3f898'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8Bq681hV/versions/j9uTfdJd/tetras_weapons-1.0.0.jar'
+
+[update.modrinth]
+mod-id = '8Bq681hV'
+version = 'j9uTfdJd'
