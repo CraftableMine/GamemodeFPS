@@ -1,0 +1,16 @@
+filename = 'weaponleveling-1.20.1-2.2.2-forge.jar'
+name = "Lukas' Weapon Leveling"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9de3c8e22007005b50bd8cab71241a57b5e2ed37c6f3e544d3037ef926f440d4d14735a0bd8a90964ce925178d3dca9c089b4c26fb550464a82632d5dae5dff2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IuFgFiGE/versions/eJJNwguo/weaponleveling-1.20.1-2.2.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'IuFgFiGE'
+version = 'eJJNwguo'

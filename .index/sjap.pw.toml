@@ -1,0 +1,16 @@
+filename = 'SJAP_Resharpened-1.20.1-1.1.10.jar'
+name = 'SlashBladeJapaneseAddonPack'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '702b777334ab76dca9440e01cb09ff277f36f5e079e7ca8c5e96bd169977f87cbe685b9ca53224a24877bd7fe8401a5fe86c145038784607a31ec6a8aca0fff4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UVAZ3yo1/versions/YYuE341A/SJAP_Resharpened-1.20.1-1.1.10.jar'
+
+[update.modrinth]
+mod-id = 'UVAZ3yo1'
+version = 'YYuE341A'
