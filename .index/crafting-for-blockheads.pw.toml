@@ -1,0 +1,16 @@
+filename = 'craftingforblockheads-forge-1.20.1-20.1.2.jar'
+name = 'Crafting for Blockheads'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3abd2471ecdf81213237359fadf346b5c27d5eb7de57bfa4821f383e0224b00d73017e6fc049aca4829b7358b291af8af91c860a0cf84de8297ec22825fb7ef9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2iXryxbd/versions/TBlzieXy/craftingforblockheads-forge-1.20.1-20.1.2.jar'
+
+[update.modrinth]
+mod-id = '2iXryxbd'
+version = 'TBlzieXy'
