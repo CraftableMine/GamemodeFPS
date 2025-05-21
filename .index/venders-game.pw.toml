@@ -1,0 +1,16 @@
+filename = 'flansvendersgame-1.20.1-0.4.316.jar'
+name = "Vender's Game - A Flan's Mod Content Pack"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '45f8aa9b2a03a74c6de1b205829caa44888c7105946b47a6c785b3f58740944bf94ca5b85b05cf25e7f956ea3f3ae4adc1e1e0e1f0c0e48c54dfd0e6a74b5a22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eJ4pWSLN/versions/34yUipcp/flansvendersgame-1.20.1-0.4.316.jar'
+
+[update.modrinth]
+mod-id = 'eJ4pWSLN'
+version = '34yUipcp'

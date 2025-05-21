@@ -1,0 +1,16 @@
+filename = 'flansbasicparts-1.20.1-0.4.316.jar'
+name = "Basic Parts - A Flan's Mod Content Pack"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '469a25f63532469bf56ea7134489ea50f9f514c45f4b33cb3150f40d035a16d69f87a6b0e3f41172dd083ce4ed0b5d3c33cdb208eab881f1e92f89f056158e08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SW689aLz/versions/uEJ3PuJi/flansbasicparts-1.20.1-0.4.316.jar'
+
+[update.modrinth]
+mod-id = 'SW689aLz'
+version = 'uEJ3PuJi'
