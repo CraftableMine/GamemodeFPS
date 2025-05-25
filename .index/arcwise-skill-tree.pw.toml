@@ -1,0 +1,16 @@
+filename = 'arcwise-1.20-1.20.1-forge.jar'
+name = 'Arcwise - Puffish Skill Tree'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b3492dc315c623827bc9a651423a69b69c7a4193cb0e755d6d695033300613993a537d9a3119d88cd81b899ca276ee3fa8ee4b264504ba4d3d372e75ed369235'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8Uddo3yY/versions/7AUZrH07/arcwise-1.20-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = '8Uddo3yY'
+version = '7AUZrH07'

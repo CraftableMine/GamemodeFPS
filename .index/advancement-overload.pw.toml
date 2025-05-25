@@ -1,0 +1,16 @@
+filename = 'advancement-overload-1.2.2.jar'
+name = 'Advancement Overload'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b25ca8377874e68cbfffde21f93ed21f079af25dbd5ab19cdcca78f8be702dedf3576f93c1fb28f1f44f491359ecf5004025829c83507fb3b4d0ed95c719970a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T0RfvsYu/versions/bCPjum0Z/advancement-overload-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'T0RfvsYu'
+version = 'bCPjum0Z'

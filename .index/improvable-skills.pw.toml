@@ -1,0 +1,16 @@
+filename = 'ImprovableSkills-1.20.1-20.1.13.jar'
+name = 'Improvable Skills'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3b6704c83b82e9f045e5068ada51e917c112b294b7440a351a845bd8ca4aa740c7b774fcf79be81e54cb1411f3a793ddbc258865e77899d3d7ac179388b00427'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9fT7HUaI/versions/1AfCpWmc/ImprovableSkills-1.20.1-20.1.13.jar'
+
+[update.modrinth]
+mod-id = '9fT7HUaI'
+version = '1AfCpWmc'

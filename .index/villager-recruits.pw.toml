@@ -1,0 +1,16 @@
+filename = 'recruits-1.20.1-1.13.3.jar'
+name = 'Villager Recruits'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '59aade9b4d7092183fe3b38a7a64a4a5bc1e7940c49c870ea72dde81a7c6c52a41dba0ce8b2562bcfaafc25cee91f0988901a3e883e5a6760c6a1e24bebed925'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WOg9lm4u/versions/TVn1mJLU/recruits-1.20.1-1.13.3.jar'
+
+[update.modrinth]
+mod-id = 'WOg9lm4u'
+version = 'TVn1mJLU'

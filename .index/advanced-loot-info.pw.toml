@@ -1,0 +1,16 @@
+filename = 'AdvancedLootInfo-forge-1.20.1-1.1.6.jar'
+name = 'Advanced Loot Info'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '7edc77edcc1f64f3c68553f5ebae101a518ace83a03457c5f36ba8207dcf05dfa987764bd451dd869a9404113cdb591ca431d3f9ec1bcfc3e87d6a4775b9b19f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PEPVViac/versions/6o3RQNMJ/AdvancedLootInfo-forge-1.20.1-1.1.6.jar'
+
+[update.modrinth]
+mod-id = 'PEPVViac'
+version = '6o3RQNMJ'

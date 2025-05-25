@@ -1,0 +1,16 @@
+filename = 'puffish_skills-0.16.0-1.20-forge.jar'
+name = "Pufferfish's Skills"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ef6b988ddf03918bc5c97f2751da63d9b69313dce63b50fadd606fda235a3d8a3f095abad17b64b7c740b35df206b100fd445b8e02b4f023c7ba3ad750ad2ca3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hqQqvaa4/versions/9t3cXAPc/puffish_skills-0.16.0-1.20-forge.jar'
+
+[update.modrinth]
+mod-id = 'hqQqvaa4'
+version = '9t3cXAPc'
