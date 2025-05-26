@@ -1,0 +1,16 @@
+filename = 'pocketgps-forge-1.20.1-1.1.5.jar'
+name = 'PocketGPS'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8df4c56ad652ea338698ab110788daca5119c39511a6c75e3de0b0246f472467c7b4567a740de3efd9694c6efbd3507ae72182738e9380a08d429aab5de97749'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4VaCQHUg/versions/AKYkIOZQ/pocketgps-forge-1.20.1-1.1.5.jar'
+
+[update.modrinth]
+mod-id = '4VaCQHUg'
+version = 'AKYkIOZQ'

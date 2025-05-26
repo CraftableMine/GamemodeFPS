@@ -1,0 +1,16 @@
+filename = 'globalxp-forge-1.20.1-1.12.jar'
+name = 'Global XP'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5c2e2d90d1f0bbfd42f026eb07bc9d922b514264e53d1900c3777ebe5157796cfaaf4c22d98c6e5642e0035cb8c299984b9a4cd72e6d73d103e017251afff3dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bSkHUVQQ/versions/3sL30g7M/globalxp-forge-1.20.1-1.12.jar'
+
+[update.modrinth]
+mod-id = 'bSkHUVQQ'
+version = '3sL30g7M'
