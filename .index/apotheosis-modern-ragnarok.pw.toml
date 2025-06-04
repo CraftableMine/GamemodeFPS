@@ -1,4 +1,4 @@
-filename = 'apotheosis_modern_ragnarok-4.0.0+mc1.20.1+tacz1.1.5.jar'
+filename = 'apotheosis_modern_ragnarok-4.0.2+mc1.20.1+tacz1.1.5.jar'
 name = 'Apotheosis Modern Ragnarok: Zero'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3370ccdb830475e37b16a2377309f3cb8d3cdc2d'
+hash = 'a54693a0261b4de1ac1559ce0c37bc06137b1cac'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6518336
+file-id = 6583787
 project-id = 966582

@@ -1,4 +1,4 @@
-filename = 'improvemilitayuniform-1.4.1-forge-1.20.1.jar'
+filename = 'improvemilitayuniform-1.4.2-forge-1.20.1.jar'
 name = 'Improved Military Uniforms'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '437432e2c17f7223bf3fafdc87af339f92c84e3a08626cd30a090b3566f797bc9f97a4c115865e435cd3745470f17d1da112c9451bc9283cfd10e1c7278569ae'
+hash = 'c8f9340a57d8e48de8c23edfdbbfa896f1aba650265018aad04d90022a62bb44c0b2939e12d2119588439c67a9fa255fa2c4459c8a56d546f8d8fad468a66a43'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8F2kh4MW/versions/dLTeON1O/improvemilitayuniform-1.4.1-forge-1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/8F2kh4MW/versions/IdNtzFgz/improvemilitayuniform-1.4.2-forge-1.20.1.jar'
 
 [update.modrinth]
 mod-id = '8F2kh4MW'
-version = 'dLTeON1O'
+version = 'IdNtzFgz'

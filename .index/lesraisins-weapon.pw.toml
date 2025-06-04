@@ -1,16 +1,16 @@
-filename = 'lradd-1.20.1-0.2.4.jar'
-name = '[TACZ]LesRaisins Append Pack'
+filename = 'lradd-1.20.1-0.3.0.jar'
+name = 'LesRaisinsAddon'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '21efdcd3d1fe188556467cc911bb543922cb91c56ecdb16383ca64d3037fad901686ed39edd4f04d1fd63517192750af0cfb85ba9af9f67ccd4535d351175c2b'
+hash = 'ddc0f6618ab474e92931db65d3f1715c7520325e1829c357fb31e448abd94406b34bdf2ad818e4c99c52e2b069e8659947487028819983d26e1435e3c9c0bd5f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vWxaCnwP/versions/L3bBKl65/lradd-1.20.1-0.2.4.jar'
+url = 'https://cdn.modrinth.com/data/vWxaCnwP/versions/KbReepVU/lradd-1.20.1-0.3.0.jar'
 
 [update.modrinth]
 mod-id = 'vWxaCnwP'
-version = 'L3bBKl65'
+version = 'KbReepVU'
